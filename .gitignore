@@ -1,7 +1,7 @@
 # Custom ignore
 data/
 *.zip
-.ipynb_checkpoints
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
